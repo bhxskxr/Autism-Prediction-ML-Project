@@ -25,3 +25,18 @@ This project predicts the likelihood of Autism based on demographic and behavior
 
 ## Installation & Usage
 1. Clone this repository:
+2. git clone https://github.com/
+<your-username>/Autism-Prediction-ML-Project.git
+
+2. Navigate into the project folder:
+cd Autism-Prediction-ML-Project
+
+4. Open the Jupyter Notebook:
+Autism_Preidiction.ipynb
+
+## Results
+- Achieved a model accuracy of **85%** (replace with your result).
+- Provides early prediction insights into Autism for better healthcare interventions.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
